@@ -24,21 +24,21 @@ Cross-broker copy trading presents a fantastic way to diversify trading strategi
 Combiz Services Pvt Ltd is a leading provider of copy trading software, dedicated to developing solutions that meet the evolving needs of investors. Their platform supports cross-broker trading capabilities, making it one of the best copy trading platforms in India. Here’s a list of top brokers supported by Combiz Services for cross-broker copy trading:
 
 ## Top Copy Trading Apps in India
-ShareKhan
-IIFL Securities
-AsthaTrade
-KotakNeo
-PureBroking
-SMC Global
-NirmalBang
-MarwadiPro
-SRE
-5PAISA
-Jainam Dealer
-DaynaWagnus
-Stoxkart
-AdityaTrading
-JM Finance
+ShareKhan,
+IIFL Securities,
+AsthaTrade,
+KotakNeo,
+PureBroking,
+SMC Global,
+NirmalBang,
+MarwadiPro,
+SRE,
+5PAISA,
+Jainam Dealer,
+DaynaWagnus,
+Stoxkart,
+AdityaTrading,
+JM Finance,
 Fyers
 
 ## Conclusion
